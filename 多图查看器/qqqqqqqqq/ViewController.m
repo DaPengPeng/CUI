@@ -19,6 +19,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     //照片查看器
+    //4564665
     
     SeeImageObj *z = [[SeeImageObj alloc]init];
     z.name = @"1.jpg";
